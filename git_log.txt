@@ -1,0 +1,5 @@
+commit d0a6a6fc892f225daf28332aac8a0093e376331f
+Author: Raghad Alshoubaki <ralshoub@c2r1s7.42amman.com>
+Date:   Thu Oct 1 13:03:37 2026 +0300
+
+    Add hello.txt
